@@ -1,0 +1,1 @@
+sass --watch D:\开发团队\vscode\PhotographyActivity\css:D:\开发团队\vscode\PhotographyActivity\css
